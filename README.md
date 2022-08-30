@@ -15,14 +15,22 @@
 
 **옵션**
 - 1 : Encrypt
+
   **input**
+  
   - C : (string 입력)
   - K : (key 입력)
+  
   **output**
+  
   - M : (encrypted string)
 - 2 : Decrypt
+
   **input**
+  
   - M : (string 입력)
   - K : (key 입력)
+ 
   **output**
+  
   - C : (decrypted string)
